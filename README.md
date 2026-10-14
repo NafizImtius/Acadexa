@@ -48,11 +48,15 @@ cd Acadexa
 
 # Backend
 cd backend 
+
 npm install 
+
 npm start 
 # Frontend (in a new terminal)
 cd frontend 
+
 npm install 
+
 npm start 
 
 Create backend/.env 
