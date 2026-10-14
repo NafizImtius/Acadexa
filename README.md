@@ -3,7 +3,7 @@
 Intelligent Thesis Management and Global PhD Research Companion System
 A full-stack web platform that digitizes the university thesis lifecycle (supervisor discovery, thesis registration, synopsis approval, progress tracking, viva preparation) and helps students prepare for global PhD applications.
 
-Live demo: https://acadexa-frontend.onrender.com
+#  Live demo: https://acadexa-frontend.onrender.com
 
 Built for CSE471: System Analysis and Design, BRAC University, Spring 2026 (Group 02, team of four).
 
