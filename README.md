@@ -1,4 +1,4 @@
-Acadexa
+# ACADEXA
 
 Intelligent Thesis Management and Global PhD Research Companion System
 A full-stack web platform that digitizes the university thesis lifecycle (supervisor discovery, thesis registration, synopsis approval, progress tracking, viva preparation) and helps students prepare for global PhD applications.
@@ -47,12 +47,12 @@ git clone https://github.com/NafizImtius/Acadexa.git
 cd Acadexa
 
 # Backend
-cd backend
-npm install
-npm start
+cd backend 
+npm install 
+npm start 
 # Frontend (in a new terminal)
-cd frontend
-npm install
-npm start
+cd frontend 
+npm install 
+npm start 
 
 Create backend/.env 
